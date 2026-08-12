@@ -39,7 +39,7 @@ To develop a comprehensive credit  card weekly dashboard that  provides real-tim
 
 
 # 📊 Credit Card Transaction Report Dashboard 
-![Credit_Card_Transaction_Report-24-Dec-2023](https://github.com/user-attachments/assets/fed76c25-84df-4fd2-9978-d807bb21b14c)
+!(https://github.com/user-attachments/assets/fed76c25-84df-4fd2-9978-d807bb21b14c)
 
 
 # 📊 Credit Card Transaction Report Dashboard 
@@ -51,7 +51,7 @@ To develop a comprehensive credit  card weekly dashboard that  provides real-tim
 
 
 # 📊 Credit Card Customer Report Dashboard 
-![Credit_Card_Customer_Report-31-Dec-2023](https://github.com/user-attachments/assets/eb7f33eb-41e7-4892-aa01-55ef9f6d3aef)
+!(https://github.com/user-attachments/assets/eb7f33eb-41e7-4892-aa01-55ef9f6d3aef)
 
 
 # 📊 Dashboard Insights
