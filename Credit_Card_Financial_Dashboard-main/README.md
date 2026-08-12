@@ -39,7 +39,8 @@ To develop a comprehensive credit  card weekly dashboard that  provides real-tim
 
 
 # 📊 Credit Card Transaction Report Dashboard 
-!(https://github.com/user-attachments/assets/fed76c25-84df-4fd2-9978-d807bb21b14c)
+<img width="1519" height="863" alt="image" src="https://github.com/user-attachments/assets/c252f3df-8865-4240-83aa-5dff3094ea61" />
+
 
 
 # 📊 Credit Card Transaction Report Dashboard 
